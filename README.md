@@ -12,4 +12,3 @@ Main contributors are -
  - [Ankesh](https://github.com/NoteLyfe) (Kali noob)
  - [Anjani Kumar](https://github.com/itsAnju)
  - []()
- - []()
