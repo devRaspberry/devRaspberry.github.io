@@ -10,6 +10,6 @@ Main contributors are -
  - [Laxit Kumar Chahuhan](https://github.com/kumarlaxit) (WEB DEV)
  - [Ankesh](https://github.com/NoteLyfe) (Kali noob)
  - []()
- - []()
+ - [Anjani Kumar](https://github.com/itsAnju)
  - []()
  - []()
