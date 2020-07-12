@@ -11,4 +11,4 @@ Main contributors are -
  - [Laxit Kumar Chahuhan](https://github.com/kumarlaxit) (WEB DEV)
  - [Aman](https://github.com/amansmarty069) (Android DEV)
  - [Ankesh](https://github.com/NoteLyfe) (Kali noob)
- - [Anjani Kumar](https://github.com/itsAnju)
+ - [Anjani Kumar](https://github.com/itsAnju) (Starting)
