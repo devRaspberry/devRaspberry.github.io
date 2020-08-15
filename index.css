@@ -1,39 +1,52 @@
-body{
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Baloo Tamma 2', cursive;
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Baloo Tamma 2", cursive;
+  color: whitesmoke;
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    45deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 0.7539390756302521) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
 }
-img{
-    display: inline-block;
-    width: 25px;
-    height: 25px;
+img {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
 }
-.company-name{
-    padding: 10px;
+.company-name {
+  padding: 10px;
 }
-.nav-links{
-    padding: 5px 20px;
+.nav-links {
+  padding: 5px 20px;
 }
-.nav-links:hover{
-    cursor: pointer;
+.nav-links:hover {
+  cursor: pointer;
 }
-.main-container{
-    background-color: black;
-    color: white;
-    display: flex;
-    flex-direction: row;
-   
+.main-container {
+  border: 2px solid white;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  flex-direction: row;
 }
-.bottom-links:hover{
-    cursor: pointer;
-    color: skyblue;
+.bottom-links:hover {
+  cursor: pointer;
+  color: skyblue;
 }
-.footer-links{
-    display: flex;
+.footer-links {
+  display: flex;
+  background-color: gray;
+  border-radius: 10px;
+  
 }
-.footer-icons{
-    color: black;
-    display: inline-block;
-    width: 20px;
-    height: 20px;
+.footer-icons {
+  color: black;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  padding: 20px 5px;
+  margin: 1px 20px;
 }
