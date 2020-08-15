@@ -1,6 +1,6 @@
 # Showoff website
 Github pages hosted to showoff this organization people and projects.
-Here we showcase our dev who are awesome.
+Here we showcase our devs which are awesome.
 
  - Our domain is https://devraspberry.ga
  
